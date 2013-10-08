@@ -3,7 +3,7 @@
  * Gregor Rudolf <gregor.rudolf@gmail.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['sl'] = {
+	$.fn.fdatetimepicker.dates['sl'] = {
 		days: ["Nedelja", "Ponedeljek", "Torek", "Sreda", "Četrtek", "Petek", "Sobota", "Nedelja"],
 		daysShort: ["Ned", "Pon", "Tor", "Sre", "Čet", "Pet", "Sob", "Ned"],
 		daysMin: ["Ne", "Po", "To", "Sr", "Če", "Pe", "So", "Ne"],

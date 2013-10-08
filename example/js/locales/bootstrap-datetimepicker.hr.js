@@ -2,7 +2,7 @@
  * Croatian localisation
  */
 ;(function($){
-	$.fn.datetimepicker.dates['hr'] = {
+	$.fn.fdatetimepicker.dates['hr'] = {
 		days: ["Nedjelja", "Ponedjelja", "Utorak", "Srijeda", "Četrtak", "Petak", "Subota", "Nedjelja"],
 		daysShort: ["Ned", "Pon", "Uto", "Srr", "Čet", "Pet", "Sub", "Ned"],
 		daysMin: ["Ne", "Po", "Ut", "Sr", "Če", "Pe", "Su", "Ne"],

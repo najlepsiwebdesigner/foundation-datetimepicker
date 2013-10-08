@@ -3,7 +3,7 @@
  * Apostol Apostolov <apostol.s.apostolov@gmail.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['bg'] = {
+	$.fn.fdatetimepicker.dates['bg'] = {
 		days: ["Неделя", "Понеделник", "Вторник", "Сряда", "Четвъртък", "Петък", "Събота", "Неделя"],
 		daysShort: ["Нед", "Пон", "Вто", "Сря", "Чет", "Пет", "Съб", "Нед"],
 		daysMin: ["Н", "П", "В", "С", "Ч", "П", "С", "Н"],

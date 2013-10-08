@@ -3,7 +3,7 @@
  * Hinrik Örn Sigurðsson <hinrik.sig@gmail.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['is'] = {
+	$.fn.fdatetimepicker.dates['is'] = {
 		days: ["Sunnudagur", "Mánudagur", "Þriðjudagur", "Miðvikudagur", "Fimmtudagur", "Föstudagur", "Laugardagur", "Sunnudagur"],
 		daysShort: ["Sun", "Mán", "Þri", "Mið", "Fim", "Fös", "Lau", "Sun"],
 		daysMin: ["Su", "Má", "Þr", "Mi", "Fi", "Fö", "La", "Su"],

@@ -3,7 +3,7 @@
  * Cristian Vasile <cristi.mie@gmail.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['ro'] = {
+	$.fn.fdatetimepicker.dates['ro'] = {
 		days: ["Duminică", "Luni", "Marţi", "Miercuri", "Joi", "Vineri", "Sâmbătă", "Duminică"],
 		daysShort: ["Dum", "Lun", "Mar", "Mie", "Joi", "Vin", "Sâm", "Dum"],
 		daysMin: ["Du", "Lu", "Ma", "Mi", "Jo", "Vi", "Sâ", "Du"],

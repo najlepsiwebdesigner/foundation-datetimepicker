@@ -4,7 +4,7 @@
  */
 
 ;(function($){
-    $.fn.datetimepicker.dates['lv'] = {
+    $.fn.fdatetimepicker.dates['lv'] = {
         days: ["Svētdiena", "Pirmdiena", "Otrdiena", "Trešdiena", "Ceturtdiena", "Piektdiena", "Sestdiena", "Svētdiena"],
         daysShort: ["Sv", "P", "O", "T", "C", "Pk", "S", "Sv"],
         daysMin: ["Sv", "Pr", "Ot", "Tr", "Ce", "Pk", "St", "Sv"],
