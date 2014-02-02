@@ -3,7 +3,7 @@
  * Victor Taranenko <darwin@snowdale.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['ru'] = {
+	$.fn.fdatetimepicker.dates['ru'] = {
 		days: ["Воскресенье", "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"],
 		daysShort: ["Вск", "Пнд", "Втр", "Срд", "Чтв", "Птн", "Суб", "Вск"],
 		daysMin: ["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс"],

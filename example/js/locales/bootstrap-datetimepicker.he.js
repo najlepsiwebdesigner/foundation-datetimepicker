@@ -3,7 +3,7 @@
  * Sagie Maoz <sagie@maoz.info>
  */
 ;(function($){
-  $.fn.datetimepicker.dates['he'] = {
+  $.fn.fdatetimepicker.dates['he'] = {
       days: ["ראשון", "שני", "שלישי", "רביעי", "חמישי", "שישי", "שבת", "ראשון"],
       daysShort: ["א", "ב", "ג", "ד", "ה", "ו", "ש", "א"],
       daysMin: ["א", "ב", "ג", "ד", "ה", "ו", "ש", "א"],

@@ -3,7 +3,7 @@
  * Marek Lichtner <marek@licht.sk>
  */
 ;(function($){
-	$.fn.datetimepicker.dates["sk"] = {
+	$.fn.fdatetimepicker.dates["sk"] = {
 		days: ["Nedeľa", "Pondelok", "Utorok", "Streda", "Štvrtok", "Piatok", "Sobota", "Nedeľa"],
 		daysShort: ["Ne", "Po", "Ut", "St", "Št", "Pi", "So", "Ne"],
 		daysMin: ["Ne", "Po", "Ut", "St", "Št", "Pi", "So", "Ne"],

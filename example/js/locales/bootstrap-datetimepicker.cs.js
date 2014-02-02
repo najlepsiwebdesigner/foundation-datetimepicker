@@ -3,7 +3,7 @@
  * Matěj Koubík <matej@koubik.name>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['cs'] = {
+	$.fn.fdatetimepicker.dates['cs'] = {
 		days: ["Neděle", "Pondělí", "Úterý", "Středa", "Čtvrtek", "Pátek", "Sobota", "Neděle"],
 		daysShort: ["Ne", "Po", "Út", "St", "Čt", "Pá", "So", "Ne"],
 		daysMin: ["N", "P", "Ú", "St", "Č", "P", "So", "N"],

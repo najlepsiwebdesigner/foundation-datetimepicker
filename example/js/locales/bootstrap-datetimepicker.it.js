@@ -3,7 +3,7 @@
  * Enrico Rubboli <rubboli@gmail.com>
  */
 ;(function($){
-	$.fn.datetimepicker.dates['it'] = {
+	$.fn.fdatetimepicker.dates['it'] = {
 		days: ["Domenica", "Lunedi", "Martedi", "Mercoledi", "Giovedi", "Venerdi", "Sabato", "Domenica"],
 		daysShort: ["Dom", "Lun", "Mar", "Mer", "Gio", "Ven", "Sab", "Dom"],
 		daysMin: ["Do", "Lu", "Ma", "Me", "Gi", "Ve", "Sa", "Do"],
