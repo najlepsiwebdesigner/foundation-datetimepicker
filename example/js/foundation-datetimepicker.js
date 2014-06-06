@@ -1226,7 +1226,7 @@
 									DPGlobal.footTemplate+
 								'</table>'+
 							'</div>'+
-							'<a class="button datetimepicker-close small alert right" style="width:auto;"><i class="icon-remove"></i></a>'+
+							'<a class="button datetimepicker-close small alert right" style="width:auto;"><i class="fa fa-times fi-x"></i></a>'+
 						'</div>';
 
 	$.fn.fdatetimepicker.DPGlobal = DPGlobal;
