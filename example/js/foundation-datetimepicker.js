@@ -611,7 +611,7 @@
 			e.stopPropagation();
 			e.preventDefault();
 			
-			if ($(e.target).hasClass('datetimepicker-close')){
+			if ($(e.target).hasClass('datetimepicker-close') || $(e.target).parent().hasClass('datetimepicker-close')){
 				this.hide();
 			}
 			
