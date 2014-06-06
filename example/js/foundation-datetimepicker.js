@@ -112,7 +112,7 @@
 		if (this.isRTL){
 			this.picker.addClass('datetimepicker-rtl');
 			this.picker.find('.prev i, .next i')
-						.toggleClass('icon-chevron-left icon-chevron-right');
+						.toggleClass('icon-chevron-left icon-chevron-right fa-chevron-left fi-arrow-left fa-chevron-right fi-arrow-right');
 		}
 		$(document).on('mousedown', function (e) {
 			// Clicked outside the datetimepicker, hide it
