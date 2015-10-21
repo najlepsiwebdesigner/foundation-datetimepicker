@@ -1,6 +1,3 @@
-foundation-datetimepicker
-=========================
+This project was officially merged to https://github.com/najlepsiwebdesigner/foundation-datepicker/tree/v1.5.0
 
-Foundation datetimepicker jQuery plugin, based on bootstrap-datetimepicker project found at https://github.com/smalot/bootstrap-datetimepicker and foundation-datepicker plugin (http://foundation-datepicker.peterbeno.com).
-
-For more information, please see included example, or visit http://foundation-datetimepicker.peterbeno.com
+Please continue development in v1.5.0 branch, thanks!
